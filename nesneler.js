@@ -25,7 +25,7 @@ let category2 = {
   id: 1,
   name: "Bahçe Malzemeleri",
   products: [
-    { id: 1, name: "Koltuk Takımı", unitPrice: 55000 },
+    { id: 1, name: "Koltuk Takımı", unitPrice: 56000 },
     { id: 2, name: "Şemsiye", unitPrice: 4500 },
   ],
 };
